@@ -10,3 +10,6 @@
 Kyntela121/Kyntela121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+    use_ema: true
+    load_ema: true
+    
